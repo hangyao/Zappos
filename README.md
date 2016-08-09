@@ -1,5 +1,5 @@
 # Zappos
-Zappos Code
+This project is a part of Zappos technical interview for Data Scientist.
 
 ## Install
 
@@ -18,6 +18,7 @@ You will also need to have software installed to run and execute an [iPython Not
 The code is provided in the following notebook files:
 
 - ```zappos-clean.ipynb```
+- ```renders.py``` provides helper functions for plotting and visualization.
 
 ## Run
 
